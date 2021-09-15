@@ -109,11 +109,11 @@
 
 ### 출력예시
 
-![출력예시1](./images/result.png)
+![출력예시1](./Images/result.png)
 
 
 
-![출력예시2](./images/error.png)
+![출력예시2](./Images/error.png)
 
 
 
