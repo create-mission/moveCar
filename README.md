@@ -109,11 +109,11 @@
 
 ### 출력예시
 
-![스크린샷 2021-08-26 오전 11.43.59](./images/result.png)
+![출력예시1](./images/result.png)
 
 
 
-![](./images/error.png)
+![출력예시2](./images/error.png)
 
 
 
